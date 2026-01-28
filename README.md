@@ -8,9 +8,6 @@ A simple, user-friendly graphical tool for creating and extracting ZIP-compatibl
 
 ## <a name="english"></a>English
 
-![chebRAR Screenshot](https://i.imgur.com/5O4F5gq.png)
-*(This image should be replaced with a real screenshot of your application)*
-
 ### About The Project
 
 chebRAR has evolved from a simple command-line script into a full-fledged GUI application. The goal is to provide a straightforward, no-fuss tool for basic archiving tasks. While it uses a custom `.crar` extension, all archives created are standard ZIP files, ensuring full compatibility with any modern archiving tool.
@@ -55,9 +52,6 @@ To package the application into a single executable file for Windows, use PyInst
 ---
 
 ## <a name="русский"></a>Русский
-
-![chebRAR Screenshot](https://i.imgur.com/5O4F5gq.png)
-*(Это изображение следует заменить реальным скриншотом вашего приложения)*
 
 ### О проекте
 
